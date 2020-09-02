@@ -1,4 +1,4 @@
-### My name is Jacob.
+### Hi, I'm Jacob 👋.
 
 I'm a front-end web developer based in London, UK.
 
