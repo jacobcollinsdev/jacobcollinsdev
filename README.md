@@ -10,7 +10,7 @@ Technologies I've used in my projects include:
 
 Open to full-time Junior Front End Developer positions. 
 
-📧 jacobcollinsdev@gmail.com
+📧 Contact me at: jacobcollinsdev@gmail.com
 
 
 
