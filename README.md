@@ -6,6 +6,8 @@ Technologies I've used in my projects include:
 ✔️ HTML, CSS, JavaScript
 ✔️ jQuery
 ✔️ React
+✔️ PHP & MySQL
+✔️ Bootstrap
 ✔️ GSAP
 
 Open to full-time Junior Front End Developer positions. 
