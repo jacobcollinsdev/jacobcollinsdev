@@ -5,13 +5,18 @@ I'm a front-end web developer based in London, UK.
 Technologies I've used in my projects include:
 
 ✔️ HTML, CSS, JavaScript
+
 ✔️ jQuery
+
 ✔️ React.js
+
 ✔️ Bulma.css
+
 ✔️ GSAP
 
 I'm learning:
 🌱 PHP & MySQL
+
 🌱 Meteor.js
 
 Open to full-time Junior Front End Developer positions. 
