@@ -2,7 +2,7 @@
 
 I'm a front-end web developer based in London, UK.
 
-Technologies I've used in my projects include:
+*Technologies I've used in my projects include:*
 
 ✔️ HTML, CSS, JavaScript
 
@@ -14,7 +14,8 @@ Technologies I've used in my projects include:
 
 ✔️ GSAP
 
-I'm learning:
+*I'm learning:*
+
 🌱 PHP & MySQL
 
 🌱 Meteor.js
