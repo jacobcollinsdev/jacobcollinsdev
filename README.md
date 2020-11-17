@@ -20,14 +20,7 @@ I'm a front-end web developer based in London, UK.
 
 🌱 Meteor.js
 
-Open to full-time Junior Front End Developer positions. 
-
 📧 Contact me at: jacobcollinsdev@gmail.com
-
-
-
-
-
 <!--
 **jacobcollinsdev/jacobcollinsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
