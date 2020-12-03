@@ -1,6 +1,6 @@
 ### Hi, I'm Jacob 👋.
 
-I'm a front-end web developer based in London, UK.
+I'm a software developer based in London, UK.
 
 #### Technologies I've used in my projects include:
 
