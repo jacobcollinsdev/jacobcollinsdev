@@ -18,7 +18,7 @@ I'm a software developer based in London, UK.
 
 🌱 PHP & MySQL
 
-🌱 Meteor.js
+🌱 Laravel
 
 📧 Contact me at: jacobcollinsdev@gmail.com
 <!--
