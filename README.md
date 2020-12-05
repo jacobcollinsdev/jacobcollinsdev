@@ -19,8 +19,6 @@ I'm a software developer based in London, UK.
 🌱 PHP & MySQL
 
 🌱 Laravel
-
-📧 Contact me at: jacobcollinsdev@gmail.com
 <!--
 **jacobcollinsdev/jacobcollinsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
