@@ -6,7 +6,7 @@ I'm a software developer based in London, UK.
 
 ✔️ HTML, CSS, JavaScript
 ✔️ jQuery
-✔️ React.js
+⚙️ React.js
 ✔️ Bulma.css
 ✔️ Bootstrap.css
 
@@ -14,7 +14,7 @@ I'm a software developer based in London, UK.
 
 ✔️ PHP
 ✔️ MySQL
-✔️ Laravel
+⚙️ Laravel
 
 <!--
 **jacobcollinsdev/jacobcollinsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
