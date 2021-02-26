@@ -2,23 +2,20 @@
 
 I'm a software developer based in London, UK.
 
-#### Technologies I've used in my projects include:
+### Front End:
 
 ✔️ HTML, CSS, JavaScript
-
 ✔️ jQuery
-
 ✔️ React.js
-
 ✔️ Bulma.css
+✔️ Bootstrap.css
 
-✔️ GSAP
+### Back End:
 
-#### I'm learning:
+✔️ PHP
+✔️ MySQL
+✔️ Laravel
 
-🌱 PHP & MySQL
-
-🌱 Laravel
 <!--
 **jacobcollinsdev/jacobcollinsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
