@@ -2,15 +2,15 @@
 
 I'm a software developer based in London, UK.
 
-### Front End:
+### Front End & Frameworks:
 
 ✔️ HTML, CSS, JavaScript
 ✔️ jQuery
-⚙️ React.js
 ✔️ Bulma.css
 ✔️ Bootstrap.css
+⚙️ React.js
 
-### Back End:
+### Back End & Frameworks:
 
 ✔️ PHP
 ✔️ MySQL
