@@ -6,7 +6,7 @@ I'm a software developer based in London, UK.
 
 ✔️ HTML, CSS, JavaScript
 ✔️ jQuery
-✔️ Bulma.css
+✔️ Tailwind.css
 ✔️ Bootstrap.css
 ⚙️ React.js
 
