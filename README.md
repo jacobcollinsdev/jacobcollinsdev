@@ -2,19 +2,27 @@
 
 I'm a software developer based in London, UK.
 
-### Front End & Frameworks:
+I spend most of my time working in PHP & the Laravel ecosystem. 
 
-✔️ HTML, CSS, JavaScript
-✔️ jQuery
-✔️ Tailwind.css
-✔️ Bootstrap.css
-⚙️ React.js
-
-### Back End & Frameworks:
-
+### Technologies I worked with:
+## Backend
 ✔️ PHP
 ✔️ MySQL
-⚙️ Laravel
+✔️ Laravel
+✔️ Livewire
+
+## Frontend
+✔️ Alpine JS
+✔️ Tailwind & Bootstrap
+✔️ Javascript & jQuery
+✔️ Sass
+
+### Technologies I've dabbled with:
+✔️ React
+✔️ Sanity
+✔️ Docker
+✔️ GSAP
+✔️ WordPress
 
 <!--
 **jacobcollinsdev/jacobcollinsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
