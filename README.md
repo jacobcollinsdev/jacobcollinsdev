@@ -4,7 +4,7 @@ I'm a software developer based in London, UK.
 
 I spend most of my time working in PHP & the Laravel ecosystem. 
 
-## Technologies I worked with:
+## Technologies I've worked with:
 ### Backend
 ✔️ PHP
 ✔️ MySQL
